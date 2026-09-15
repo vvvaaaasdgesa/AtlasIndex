@@ -5,7 +5,6 @@ structures: a separate-chaining hash table for exact-name lookups and a binary
 search tree for ordered and range queries. CSV ingestion updates both indexes
 atomically so they always describe the same collection.
 
-Built by Yuvia Liu.
 
 ## Features
 
