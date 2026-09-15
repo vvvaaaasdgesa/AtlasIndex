@@ -1,0 +1,7 @@
+/build/
+/cmake-build-*/
+/minihub
+/minihub_*
+/atlasindex_*
+*.o
+.DS_Store
